@@ -1,0 +1,121 @@
+.imgstyle
+{
+	width: 100%;
+	height: 700px;
+}
+.trollystyle
+{
+	height: 35px;
+	width: 35px;
+}
+.cardstyle 
+{
+    position: absolute;
+    bottom: -200px;
+    left: 200px;
+}
+.divstyle
+{
+	background-color: #f4f5f4;
+	width: 100%;
+	
+}
+.creditimg1
+{
+	border-radius: 50px;
+	height: 60px;
+	width: 60px;
+}
+.cardimages
+{
+	height: 250px;
+	width: 50px;
+}
+.carouselimages
+{
+	height: 100px;
+	width: 50px;
+	border: 4px solid black;
+	border-radius: 10px;
+}
+.reviewimg
+{
+	position: relative;
+	left: 300px;
+	height: 150px;
+	width: 150px;
+	border: 4px solid #f4f5f4;
+	border-radius: 95px;
+	opacity: 0.7;
+}
+.dots
+{
+	position: relative;
+	left: 320px;
+	height: 80px;
+	width: 100px;
+	opacity: 0.3;
+	border: 4px solid #f4f5f4;
+	border-radius: 95px;
+
+}
+#pagebgimg
+{
+	margin-left: 35px;
+	width: 1400px;
+	height: 500px;
+}
+.cardcircleimg
+{
+	position: relative;
+	left: 50px;
+	height: 85px;
+	width: 85px;
+	border: 4px solid white;
+	border-radius: 95px;
+	box-shadow: 5px 10px 18px #888888;
+}
+
+.section {
+      position: relative;
+      height: 700px; /* Adjust height as needed */
+      background-image: url('girl.jpg');
+      background-size: cover; /* Adjust as needed */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white; /* Adjust text color as needed */
+    }
+
+    .card-container {
+      display: flex;
+      justify-content: space-between;
+      width: 80%; /* Adjust as needed */
+      z-index: 1; /* Ensure cards are above the background */
+    }
+
+    .fourcards {
+      color: black;
+      width: 22%; /* Adjust as needed */
+      background-color: rgba(255, 255, 255, 0.8); /* Adjust as needed */
+      padding: 20px;
+      box-sizing: border-box;
+      margin-right: 10px; /* Adjust spacing between cards */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust as needed */
+			opacity: 0.8;
+			position: absolute;
+    }
+    .rowstyles
+    {
+    	margin: 30px 30px 30px 30px;
+    }
+    .footpart
+    {
+    	margin-left: 550px;
+    }
+
+    .socialmedia
+    {
+    	width: 30px;
+    	height: 30px;
+    }
